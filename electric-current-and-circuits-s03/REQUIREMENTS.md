@@ -196,3 +196,154 @@ Reference:- https://ncert.nic.in/textbook/pdf/gecu103.pdf
 Conclusion
 
 Understanding electric current, circuits, conductors, insulators, earthing, and safety helps people use electricity responsibly. Following proper safety measures can prevent electrical accidents and save lives.
+
+
+# TASK DIVISION
+
+## Project: Electric Current and Circuits
+
+### Team Size: 6 Members
+
+---
+
+## Member 1 – Problem Research & Educational Content
+
+### Responsibilities
+
+* Research electric current, circuits, conductors, insulators, earthing, and safety.
+* Collect real-world incidents related to electrical accidents.
+* Prepare educational explanations for students.
+
+### Deliverables
+
+* Concept notes
+* Learning objectives
+* Content for storyboard scenes
+
+### GitHub Issues
+
+* Research electric current concepts
+* Create educational content document
+* Validate scientific accuracy
+
+---
+
+## Member 2 – Storyboarding & Learning Flow
+
+### Responsibilities
+
+* Design complete story flow.
+* Convert concepts into student-friendly scenes.
+* Create narrative around borewell electric shock incident.
+
+### Deliverables
+
+* Storyboard sketches
+* Scene descriptions
+* Learning sequence document
+
+### GitHub Issues
+
+* Storyboard creation
+* Scene planning
+* Learning flow design
+
+---
+
+## Member 3 – Visual Design & Assets
+
+### Responsibilities
+
+* Create characters and illustrations.
+* Design educational visuals.
+* Prepare icons and graphics.
+
+### Deliverables
+
+* Character designs
+* Visual assets
+* Scene illustrations
+
+### GitHub Issues
+
+* Asset creation
+* UI illustrations
+* Graphic optimization
+
+---
+
+## Member 4 – Frontend Development
+
+### Responsibilities
+
+* Build educational interface.
+* Implement storyboard screens.
+* Connect navigation and interactions.
+
+### Deliverables
+
+* Frontend pages
+* Interactive screens
+* Responsive design
+
+### GitHub Issues
+
+* Home page development
+* Story navigation
+* UI integration
+
+---
+
+## Member 5 – Interactive Simulations & Quiz Module
+
+### Responsibilities
+
+* Develop circuit simulations.
+* Create current flow visualizations.
+* Build quizzes and learning activities.
+
+### Deliverables
+
+* Interactive circuit demo
+* Safety simulation
+* Quiz module
+
+### GitHub Issues
+
+* Circuit visualization
+* Interactive learning module
+* Quiz implementation
+
+---
+
+## Member 6 – Repository Management, Testing & Documentation
+
+### Responsibilities
+
+* Manage GitHub repository.
+* Create and assign issues.
+* Maintain requirements.txt.
+* Test modules and integration.
+
+### Deliverables
+
+* Updated repository
+* Test reports
+* Documentation
+
+### GitHub Issues
+
+* Repository setup
+* Bug tracking
+* Integration testing
+* Documentation updates
+
+---
+
+# COMMON RESPONSIBILITIES
+
+* Attend review meetings.
+* Update GitHub issues regularly.
+* Commit code/content frequently.
+* Participate in final presentation.
+* Review pull requests from teammates.
