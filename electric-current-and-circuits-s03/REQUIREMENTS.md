@@ -13,6 +13,7 @@ Examples
 - Running a fan
 
 Reference: https://www.britannica.com/science/electric-current
+
 ---
 
 **Electric Circuit**
@@ -33,6 +34,7 @@ Types of Circuits
 - Short Circuit – Current flows through an unintended path and may cause damage.
 
 Reference: https://www.britannica.com/technology/electric-circuit
+
 ---
 
 **Conductors**
@@ -70,6 +72,7 @@ Uses
 - Safety equipment
 
 Reference : https://www.britannica.com/science/electricity/Conductors-insulators-and-semiconductors
+
 ---
 
 Earthing
@@ -127,6 +130,7 @@ Prevention
 - Avoid touching electrical equipment with wet hands
 
 Reference : https://www.esfi.org/electric-shock-drowning-water-and-electricity-dont-mix/
+
 ---
 
 3. Educational Explanations for Students
