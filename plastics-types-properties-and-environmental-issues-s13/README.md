@@ -178,6 +178,10 @@ UI Design Link:
 https://github.com/swechaap/internship2026/issues/6#issuecomment-4628633241
 
 
+Python Coding:
+https://github.com/swechaap/internship2026/issues/12
+
+
 
 Project Status:
 -
