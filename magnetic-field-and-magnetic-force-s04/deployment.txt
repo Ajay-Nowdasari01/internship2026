@@ -41,9 +41,3 @@ as a live website using Vercel. Here's the step-by-step:
 
 5. THE LIVE SITE
    URL: https://swecha-ruby.vercel.app
-
-6. ALTERNATIVE FREE HOSTING OPTIONS
-   - GitHub Pages: Push to a GitHub repo, enable Pages in settings
-   - Netlify Drop: Drag-and-drop the HTML file at netlify.com/drop
-   - Python local server: python3 -m http.server (only works on 
-     your own network)
