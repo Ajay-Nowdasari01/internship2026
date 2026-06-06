@@ -10,7 +10,8 @@ Overall Review Feedback
 Code : 
 
 - index.html (Mandatory - Main file)
-- HTML Files 
+
+- HTML Files
 - CSS Files
 - JS Files
 - Images
@@ -32,17 +33,20 @@ What problem exists? 
 Who is the learner?
 Activity
 
-3. Requirements:
+3. Requirements: (requirements.txt)
+
 They are three types of requirments:
 
-i.Functional: It describes what a person is capable of doing or performing in real tasks.
+i.Functional 
 
-ii.Learning: The process of gaining knowledge or skills through study, experience, or practice.
+ii.Learning
 
-iii.Technical: It related to specific skills or knowledge needed to perform specialized tasks or use tools and technology.
+iii.Technical
 
-Scrum Meetings for updates
-**Minimum Roles : **
+Scrum Meetings for updates 
+
+**Minimum Roles :**
+
 1. Research Lead: Gather and analyzes information needed for the project.
 2. UX / Learning Designer: Designs user experience and how users will learn/interact.
 3. Storyboard Designer: creates visual flow and structure of the content or app.
@@ -52,16 +56,3 @@ Scrum Meetings for updates
 Also ensure:
 - GitHub Issues created
 - Tasks assigned to team members
-
-### 3. Initial Code Base 
-
-Be ready with: 
-
-* Basic folder structure
-* Initial implementation/code
-* GitHub commits pushed
-
-Minimum expectation:
-- Repository setup
-- Basic project structure
-- Initial progress visible
