@@ -2,9 +2,8 @@
 
 Topic-> Problem Statement (HMW) → User → Requirement → Story Boarding → Development → Prototype → Testing
 
-## Phase 1 — Topic Selection 
+## Phase 1 — Topic Selection & User Persona (Primary Research)  
 ## Phase 2 — Requirement Gathering
-
 
 ### Functional Requirements
 
