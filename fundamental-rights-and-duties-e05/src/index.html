@@ -52,15 +52,20 @@
             <p>What would you like to master first, citizen?</p>
             
             <div class="module-container">
+                <div class="module-card track-game">
+                    <img src="../Assets/SVG/Spidey logo.png" alt="Rights Shield">
+                    <h2>🕷️ Spidey Guardian Game</h2>
+                    <p class="track-desc">Interactive game to test your knowledge of rights and duties in action!</p>
+                    <button class="btn-track" onclick="window.location.href='./game.html'">Launch Game</button>
+                </div>
                 <div class="module-card track-rights">
-                    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Rights Shield">
+                    <img src="../Assets/SVG/Rights Shield.png" alt="Rights Shield">
                     <h2>Fundamental Rights</h2>
                     <p class="track-desc">6 structural protections guaranteed to every citizen by law.</p>
                     <button class="btn-track" onclick="showPage('rights')">Enter Rights Hub</button>
                 </div>
-                
                 <div class="module-card track-duties">
-                    <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" alt="Duties Hands">
+                    <img src="../Assets/SVG/Duties Hands.png" alt="Duties Hands">
                     <h2>Fundamental Duties</h2>
                     <p class="track-desc">11 code responsibilities to help build a fantastic society.</p>
                     <button class="btn-track" onclick="showPage('duties')">Enter Duties Hub</button>
@@ -188,7 +193,8 @@
 
     <section id="resultPage" class="page">
         <div class="card">
-            <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="100" alt="Trophy Medal">
+            <img src="../Assets/SVG/TrophyMedal.png" width="100" alt="Trophy Medal">
+
             <h1>Civic Evaluation Report</h1>
             <div class="score-card">
                 <h2 id="finalScore">Score: 0</h2>
