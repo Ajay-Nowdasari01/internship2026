@@ -347,7 +347,7 @@ function selectOption(isRightChoice, cardIndex, clickEvent) {
         line1.setAttribute("stroke-width", "8");
         line1.setAttribute("stroke-linecap", "round");
         line1.setAttribute("class", "web-line-draw");
-    
+        
         // Create line strand 2 (contrast core grey)
         const line2 = document.createElementNS("http://www.w3.org/2000/svg", "line");
         line2.setAttribute("x1", startX);
