@@ -64,8 +64,10 @@ Project Structure to be maintained :
 - JS Files (Keep in folder if multiple)
 - Images (Keep in folder if multiple)
 - requirements.txt (Mandatory-for team to maintain) - Get it from ## Phase 2 — Requirement Gathering
-- storyboard file
-- About my team (teams.txt) - should also include details of ## Phase 5 — Task Division 
+- storyboard file (PNG/JPEG/PDF)
+- Userpersona
+- About my team (teams.txt) - should also include details of ## Phase 5 — Task Division
+- Readme.md - Documentation of simulation
 
 Process of MVP (Minimum Viable Simulation) 
 Example:
