@@ -4,7 +4,7 @@ An interactive educational web application that helps students understand the st
 
 ## Project Name
 
-**Atom Explorer: Interactive Atomic Structure Learning Platform**
+**Atom Universe: Interactive Atomic Structure Learning Platform**
 
 ## Live Deployment
 
