@@ -140,7 +140,7 @@ Google Fonts is the only external resource. Everything else works fully offline.
 
 ## Team Details
 
-See [teams.txt](teams.txt) for full team information and Phase 5 task division.
+See [teams.md](teams.md) for full team information and Phase 5 task division.
 
 **Lead Developer:** Rameshkumar (Rameshkumar31595)
 
@@ -148,7 +148,7 @@ See [teams.txt](teams.txt) for full team information and Phase 5 task division.
 
 ## Requirements Summary
 
-See [requirements.txt](requirements.txt) for the full Phase 2 requirement gathering document.
+See [requirements.md](requirements.md) for the full Phase 2 requirement gathering document.
 
 - **Target users:** Class 9-11 students and science teachers
 - **No backend, no login, no tracking** — pure static site
