@@ -41,8 +41,18 @@ export async function renderAnalysis(container, { levelId }) {
     }, 300 + i * 120);
   });
 
-  document.getElementById('btn-reward').addEventListener('click', () => {
+  const btn = document.getElementById('btn-reward');
+  if (stars === 0) {
+    btn.innerHTML = '<div class="shimmer-sweep"></div> 🔄 Retry Level';
+    btn.style.background = 'linear-gradient(135deg, #ef4444, #991b1b)';
+  }
+
+  btn.addEventListener('click', () => {
     audio.click();
-    navigate('reward', { levelId });
+    if (stars === 0) {
+      navigate('level', { levelId });
+    } else {
+      navigate('reward', { levelId });
+    }
   });
 }

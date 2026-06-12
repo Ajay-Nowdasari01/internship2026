@@ -449,8 +449,8 @@
 .sim-instruction {
   display: none;
   font-family: var(--font-body);
-  font-size: 11px;
-  color: var(--purple-muted);
+  font-size: 15px;
+  color: #d8b4fe;
   text-align: center;
   padding: 6px 8px;
   margin-top: 6px;
@@ -635,7 +635,7 @@
 .ana-stat-icon { font-size: 20px; }
 .ana-stat-val { font-family: var(--font-label); font-size: 15px; font-weight: 700; }
 .ana-stat-label { font-family: var(--font-body); font-size: 10px; color: var(--purple-muted); }
-.analysis-screen .btn-primary { width: auto; flex: 1; }
+.analysis-screen .btn-primary { width: 100%; margin-top: auto; flex: none; }
 
 /* ====== REWARD SCREEN ====== */
 .reward-screen {
