@@ -103,10 +103,14 @@ what-makes-things-visible-light-basics-f04/
 ---
 
 ## Requirements
-
-- **No installation needed** — pure HTML, CSS, JavaScript
-- Requires a modern browser with **ES Modules** support
-- Internet connection for Google Fonts (optional — falls back to serif/sans-serif)
+1.Visual Studio Code
+2.Git and GitHub
+3.HTML5
+4.CSS3
+5.JavaScript
+6.Responsive Web Design
+7.Local Storage for saving progress
+8.Web browser(chrome,Edge,or Firefox)
 
 ---
 
