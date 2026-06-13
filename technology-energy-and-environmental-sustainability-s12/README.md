@@ -38,7 +38,6 @@ Smart Energy Advisor provides an interactive platform where users can input ener
 ### Backend
 - FastAPI
 - Python
-- SQLAlchemy
 - Uvicorn
 
 ### Database
