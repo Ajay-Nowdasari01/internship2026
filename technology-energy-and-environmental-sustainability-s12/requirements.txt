@@ -1,46 +1,5 @@
-Smart Energy Advisor - Web Application
-
-Project Type:
-Full-Stack Dynamic Web Application
-
-# Technologies and Libraries Used
-
-## Frontend Technologies
-- React
-- HTML5
-- CSS3
-- JavaScript
-
-### Frontend Libraries
-- Axios
-- Chart.js
-- React ChartJS 2
-
----
-
-## Backend Technologies
-- Python
-- FastAPI
-
-### Backend Libraries
-- FastAPI
-- Uvicorn
-- Pydantic
-- Psycopg2-Binary
-- Python-Dotenv
-
----
-
-## Database
-- PostgreSQL
-
----
-
-## Frontend Dependencies
-
-- react
-- react-dom
-- react-scripts
-- axios
-- chart.js
-- react-chartjs-2
+fastapi
+uvicorn[standard]
+pydantic
+psycopg2-binary
+python-dotenv
