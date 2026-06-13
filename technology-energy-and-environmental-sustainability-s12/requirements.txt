@@ -1,7 +1,7 @@
 Smart Energy Advisor - Web Application
 
 Project Type:
-Full stack dynamic web application
+Full-Stack Dynamic Web Application
 
 # Technologies and Libraries Used
 
@@ -38,9 +38,9 @@ Full stack dynamic web application
 
 ## Frontend Dependencies
 
-react
-react-dom
-react-scripts
-axios
-chart.js
-react-chartjs-2
+- react
+- react-dom
+- react-scripts
+- axios
+- chart.js
+- react-chartjs-2
