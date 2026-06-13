@@ -1,10 +1,46 @@
 Smart Energy Advisor - Web Application
 
 Project Type:
-Frontend Web Development Project
+Full stack dynamic web application
 
-Tech Stack:
+# Technologies and Libraries Used
+
+## Frontend Technologies
+- React
 - HTML5
 - CSS3
-- JavaScript (ES6)
-- React
+- JavaScript
+
+### Frontend Libraries
+- Axios
+- Chart.js
+- React ChartJS 2
+
+---
+
+## Backend Technologies
+- Python
+- FastAPI
+
+### Backend Libraries
+- FastAPI
+- Uvicorn
+- Pydantic
+- Psycopg2-Binary
+- Python-Dotenv
+
+---
+
+## Database
+- PostgreSQL
+
+---
+
+## Frontend Dependencies
+
+react
+react-dom
+react-scripts
+axios
+chart.js
+react-chartjs-2
